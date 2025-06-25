@@ -1,0 +1,19 @@
+mia_settings_data_dir: data/
+mia_settings_train_batch_size: 2 #96
+mia_settings_valid_batch_size: 2 #96
+mia_settings_shuffle: True
+mia_settings_model_dir: miabm_trained/outputs
+mia_settings_stride: 6 #1
+
+mia_settings_learning_rate: 0.0004
+mia_settings_weight_decay: 0.1
+mia_settings_epochs: 10 #5
+mia_settings_train_steps: 
+mia_settings_val_steps:
+
+mia_settings_eval_frequency: 5
+mia_settings_eval_iterations: 5
+
+mia_settings_checkpoint_frequency: 
+mia_settings_drop_last: True
+mia_settings_num_workers: 1

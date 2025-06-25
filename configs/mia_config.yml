@@ -1,0 +1,7 @@
+mia_vocab_size: 50257
+mia_context_length: 6 #256 #1024
+mia_emb_dim: 768
+mia_total_attention_heads: 12
+mia_total_decoder_layers: 12
+mia_dropout_rate: .1
+mia_qkv_bias: False 

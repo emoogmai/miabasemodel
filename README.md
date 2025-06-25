@@ -9,7 +9,7 @@ It is important to note that this is only the POC for the real MIA Language Mode
 As is the case for all the AI models I design and implement this POC provides small datasets for testing purporses, the required trainner for it and the dataloaders responsible to read the dataset in a generic way.
 
 ### MIA LLM architecture's diagram
-![alt text](docs/mia_tokenizer_diagram.png)
+![alt text](docs/mia_model_arch.png)
 
 ## Project Structure
 
